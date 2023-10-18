@@ -1,0 +1,10 @@
+Trial,Metal,Voltage (V),Current (pA),Frequency (Hz),Wavelength (nm)
+1,Carbon,0.07,0,1.18E+15,255
+2,Carbon,0.171,0,1.20E+15,250
+3,Carbon,0.27,0.01,1.22E+15,245
+4,Carbon,0.6,0.01,1.30E+15,230
+5,Carbon,0.722,0.01,1.33E+15,225
+6,Carbon,0.842,0.02,1.36E+15,220
+7,Carbon,0.971,-0.01,1.40E+15,215
+8,Carbon,1.109,0.02,1.43E+15,210
+9,Carbon,1.489,-0.02,1.50E+15,200
